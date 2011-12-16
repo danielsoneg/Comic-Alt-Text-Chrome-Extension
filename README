@@ -1,0 +1,2 @@
+10-minute hatchet job - not great code.
+Contains two JS files, one for XKCD, one for Dr McNinja, and a manifest.json file so they load on the right page.
