@@ -1,6 +1,6 @@
 {
   "name": "Comic Alt-Text Decoder Ring",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reveals Hidden Text on WebComic Sites! Currently works for Dr.McNinja, XKCD",
   "permissions": [
     "http://drmcninja.com/",
